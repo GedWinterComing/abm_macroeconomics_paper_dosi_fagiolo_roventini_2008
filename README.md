@@ -9,6 +9,6 @@ This repository contains a Python-based attempt to reproduce the simulations of 
 * **Critical Analysis & Replication:** The project highlights the extreme sensitivity of complex economic ABMs to initial conditions and parameter calibration. While fully replicating the original paper's exact time-series proved challenging (a known issue in complex systems replication), the code successfully establishes the foundational micro-mechanisms of the K+S model.
 
 ## Tech Stack
-* **Language:** Python
-* **Libraries:** NumPy, Pandas, Matplotlib
-* **Methodology:** Complex Systems Simulation, Agent-Based Modeling
+* **Language:** Python.
+* **Libraries:** NumPy, Pandas, Matplotlib.
+* **Methodology:** Complex Systems Simulation, Agent-Based Modeling.
