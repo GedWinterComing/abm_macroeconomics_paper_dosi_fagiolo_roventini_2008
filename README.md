@@ -1,7 +1,7 @@
 # Macroeconomic Agent-Based Model (ABM) in Python
 
 ## Project Overview
-This repository contains a Python-based attempt to reproduce the simulations of the Keynesian-Schumpeterian macroeconomic Agent-Based Model (ABM) originally presented in the paper by Dosi, Fagiolo, and Roventini (2008): *"The microfoundations of business cycles: an evolutionary, multi-agent model"* and its complex macroeconomic dynamics (endogenous growth, business cycles, and firm interactions) from the bottom up.
+This repository contains a Python-based attempt to reproduce the simulations of the Keynesian-Schumpeterian macroeconomic Agent-Based Model (ABM) originally presented by Dosi, Fagiolo, and Roventini (2008) *"The microfoundations of business cycles: an evolutionary, multi-agent model"* paper and its complex macroeconomic dynamics (endogenous growth, business cycles, and firm interactions) from the bottom up.
 
 ## Model Features & Implementation
 * **Custom Simulation Environment:** Built a custom simulation environment in Python from scratch to model agent behaviors, R&D investments, and market interactions.
